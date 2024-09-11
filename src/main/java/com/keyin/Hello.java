@@ -8,5 +8,6 @@ public class Hello {
 
         Animal animal = new Animal();
         animal.setName("Jimmy");
+        System.out.println("animal.getName() = " + animal.getName());
     }
 }
